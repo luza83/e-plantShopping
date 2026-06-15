@@ -334,7 +334,7 @@ function ProductList({ onHomeClick, onAboutUsClick }) {
             />
             <a href="/" onClick={(e) => handleHomeClick(e)}>
               <div style={{ display: "flex", alignItems: "center" }}>
-                <h3 style={{ color: "white" }}>PlantMart &nbsp;</h3>
+                <h3 style={{ color: "white" }}>Paradise Nursery &nbsp;</h3>
                 <i style={{ color: "white" }}>Your Green Oasis</i>
               </div>
             </a>
